@@ -17,13 +17,11 @@ this script for band instagram Note i make.(sleep) 20
 
 7- pip install secrets 
 
-8- تعطي ترخيص التخزين لبرنامج التيرمكس 
+8- pkg install git 
 
-9- cd /sdcard/download 
+9- git clone https://github.com/darkzoneIQ/F16
 
-10- mv F16.py $HOME 
-
-11- cd
+11- cd F16
 
 12- ls 
 
